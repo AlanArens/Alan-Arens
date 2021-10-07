@@ -1,5 +1,3 @@
-[README.md](https://github.com/AlanArens/Alan-Arens/files/7303692/README.md)
-# Alan-Arens
 <h1 align="center">Hi 👋, I'm Alan</h1>
 <h3 align="center">Backend Dev</h3>
 
@@ -8,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17092745/alan-arens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17092745/alan-arens" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/natureexplorer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/natureexplorer" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/natureexplorer?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/natureexplorer?hr_r=1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
